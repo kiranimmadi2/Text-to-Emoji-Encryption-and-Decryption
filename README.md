@@ -8,7 +8,7 @@
 <b>Encrypted Text:</b> The resulting string is a sequence of emojis representing the original text.
 <br>
 <br>
-Decryption
-Encrypted Emojis: The sequence of emojis is provided as input.
-Conversion to Text: Each emoji is converted back into its corresponding character based on the predefined mapping.
-Decrypted Text: The resulting characters form the decrypted text, revealing the original message.
+<h3>Decryption</h3>
+<b>Encrypted Emojis:</b> The sequence of emojis is provided as input.
+<b>Conversion to Text:</b> Each emoji is converted back into its corresponding character based on the predefined mapping.
+<b>Decrypted Text:</b> The resulting characters form the decrypted text, revealing the original message.
