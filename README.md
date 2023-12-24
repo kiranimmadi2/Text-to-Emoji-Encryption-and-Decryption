@@ -4,7 +4,7 @@
 <h2>How It Works</h2><br>
 <h3>Encryption</h3><br>
 <b>Input Text:</b> The user enters the text they want to encrypt.<br>
-<b>Conversion to Emojis:</b> Each character in the input text is replaced by a specific emoji according to a predefined mapping.<br>
+<b>Conversion to Emojis:</b> Each character in the input text is replaced by a specific emoji according to a predefined mapping<br>
 <b>Encrypted Text:</b> The resulting string is a sequence of emojis representing the original text.
 <br>
 <br>
