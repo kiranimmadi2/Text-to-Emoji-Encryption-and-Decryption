@@ -14,5 +14,11 @@
 <b>Decrypted Text:</b> The resulting characters form the decrypted text, revealing the original message.
 
 
+![Screenshot 2024-05-25 222105](https://github.com/kiranimmadi2/Text_to_Emoji/assets/118165697/62f07200-0af6-415a-8790-6f1bc9db78ca)
+
+
+![Screenshot 2024-05-25 222356](https://github.com/kiranimmadi2/Text_to_Emoji/assets/118165697/a01c9424-95c1-4c1f-b012-8986bf6649fb)
+
+
 
 
