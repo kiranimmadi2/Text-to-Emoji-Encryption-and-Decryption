@@ -12,3 +12,7 @@
 <b>Encrypted Emojis:</b> The sequence of emojis is provided as input.<br>
 <b>Conversion to Text:</b> Each emoji is converted back into its corresponding character based on the predefined mapping.<br>
 <b>Decrypted Text:</b> The resulting characters form the decrypted text, revealing the original message.
+
+
+
+
